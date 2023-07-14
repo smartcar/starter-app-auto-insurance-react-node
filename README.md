@@ -4,8 +4,8 @@ This starter app enables users to authorize and review the statistics of their c
 ## What you can expect:
 - The implementation of Smartcar Connect, allowing users to authorize vehicles through the Connect flow.
 - A sample application page displaying the authorized vehicles and providing users with the option to disconnect vehicles if desired.
-<img src=https://github.com/smartcar/starter-app-auto-insurance-react-node/assets/119897746/8821bb03-beff-4c42-9798-66a98dfe1b96 alt="connect screen" width=200 />
-<img src=https://github.com/smartcar/starter-app-auto-insurance-react-node/assets/119897746/4ca178e0-f68e-41b4-8b7c-5727653c5df2 alt="vehicle screen" width=200 />
+<img src=https://github.com/smartcar/starter-app-auto-insurance-react-node/assets/119897746/6f820618-bc93-4e29-beb4-2a08443ebf9c alt="connect screen" width=200 />
+<img src=https://github.com/smartcar/starter-app-auto-insurance-react-node/assets/119897746/050eca86-6ae3-4050-b687-a44318c8aca0 alt="vehicle screen" width=200 />
 
 Smartcar vehicle endpoints used:
 - Vehicles
